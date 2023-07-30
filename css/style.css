@@ -417,7 +417,7 @@ footer > img {
 
   header {
     padding-top: 7.5rem;
-    background-image: url(/images/mobile/image-header.jpg);
+    background-image: url('/images/mobile/image-header.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
